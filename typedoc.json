@@ -1,0 +1,8 @@
+{
+  "out": "doc",
+  "packages": [
+    "./packages/shared/",
+    "./packages/store/",
+    "./packages/factory/"
+  ]
+}
